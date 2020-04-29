@@ -32,7 +32,7 @@ The idea is:
 3. Via a venues of each city (top X venues that are in city a radius of Y meters) find a top Z **categories** that have been applied to the venues in a city
 4. Calculate **distance** between each city and the actual company's location
 5. Classify cities via **score** and **distance** to appropriate count of clusters
-6. Recommend the best group of cities for expansion
+6. As an output provide the company appropriate outputs in the form of maps, graphs or tables that can help it to select the best city or group of cities for its expansion.
 
 ## Description of the data
 
