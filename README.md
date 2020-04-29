@@ -24,6 +24,8 @@ Criteria for new locations:
 
 How to help the company to find the best cities sitting in Europe for its expansion?
 
+<img src="https://github.com/pospisilboh/Coursera_Capstone/blob/master/2020-04-29_13h43_17.png" align="center">
+
 The idea is:
 1. To find cities that offer the best environment (defined by **score**) for small businesses
 2. To find a geographical coordinate of each city by its name and country
