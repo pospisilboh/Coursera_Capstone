@@ -35,7 +35,7 @@ The idea is:
 6. As an output provide the company appropriate outputs in the form of maps, graphs or tables that can help it to select the best city or group of cities for its expansion.
 
 Example 1: Map of cities + graphical identification of clusters.
-<img src="https://github.com/pospisilboh/Coursera_Capstone/blob/master/2020-04-29_14h30_33.png" align="center">
+<img src="https://github.com/pospisilboh/Coursera_Capstone/blob/master/2020-04-29_14h36_10.png" align="center">
 
 Example 2: Scatter plots of the relationship between cities variables (**score** and **distance**) + graphical identification of clusters.
 <img src="https://github.com/pospisilboh/Coursera_Capstone/blob/master/2020-04-29_14h16_50.png" align="center">
