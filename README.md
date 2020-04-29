@@ -17,6 +17,8 @@ The following data sources will be used in the solution:
 ### Small Business Index 2019
 **The SumUp Small Business Index** reveals the European cities that offer the best environment for enterprise. The Index reveals the status quo of small businesses across Europe’s most populous cities, including real estate prospects, and third-party incentives and support.
 
+<a href="https://sumup.co.uk/small-business-index-2019/"><img src="https://github.com/pospisilboh/Coursera_Capstone/blob/master/2020-04-29_10h53_17.png" align="center"></a>
+
 **City List** includes 100 cities across Europe selected based on biggest population size, including all the capital cities in Europe, regardless of membership of the European Union.
 
 - **Population:** Urban population, sourced from United Nations Statistics Division, with most recent data for each city.
@@ -65,7 +67,6 @@ In order to rank the cities in an index, a score was attributed to each category
 
 **Once the overall score was obtained, the scale was adjusted to standardise the results, resulting in a range from 1-10.**
 This was achieved by ranking the final scores, assigning 0 to the lowest score, 10 to the highest, and the proportional part of the grades to the rest of the values.
-
 
 
 ### Foursquare
