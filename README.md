@@ -34,6 +34,10 @@ The idea is:
 5. Classify cities via **score** and **distance** to appropriate count of clusters
 6. As an output provide the company appropriate outputs in the form of maps, graphs or tables that can help it to select the best city or group of cities for its expansion.
 
+Example 1: Visualization of the relationship between cities variables (**score** and **distance**) with scatter plots + graphical identification of clusters.
+
+<img src="https://github.com/pospisilboh/Coursera_Capstone/blob/master/2020-04-29_14h16_50.png" align="center">
+
 ## Description of the data
 
 The following data sources will be used in the solution:
