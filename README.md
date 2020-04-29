@@ -27,9 +27,9 @@ How to help the company to find the best cities sitting in Europe for its expans
 <img src="https://github.com/pospisilboh/Coursera_Capstone/blob/master/2020-04-29_13h43_17.png" align="center">
 
 The idea is:
-1. To find cities that offer the best environment (defined by **score** from data source Small Business Index 2019) for small businesses
+1. To find cities that offer the best environment (**score** from data source *Small Business Index 2019*) for small businesses
 2. To find a geographical coordinate of each city by its name and country
-3. Via a venues of each city (top X venues that are in city a radius of Y meters) find (from data source Foursquare API) a top Z **categories** that have been applied to the venues in a city
+3. Via a venues of each city (top X venues that are in city a radius of Y meters) find a top Z **categories** (from data source *Foursquare API*) that have been applied to the venues in a city
 4. Calculate **distance** between each city and the actual company's location
 5. Classify cities via **score** and **distance** to appropriate count of clusters
 6. As an output provide the company appropriate outputs in the form of maps, graphs or tables that can help it to select the best city or group of cities for its expansion.
