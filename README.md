@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Find the best city for new small business expansion
 
 ## Table of Contents
 
