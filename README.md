@@ -1,18 +1,42 @@
 # Coursera_Capstone
 
+## Table of Contents
+
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+<font size = 3>
+
+1. <a href="#item1">Description of the problem</a>
+
+2. <a href="#item2">Description of the data</a>
+
+</font>
+</div>
+
 ## Description of the problem
-and a discussion of the background
-Small Business
 
+A company has a small running business and want to expand to new locations somewhere in Europe. 
 
-In Module 3, we explored New York City and the city of Toronto and segmented and clustered their neighborhoods. Both cities are very diverse and are the financial capitals of their respective countries. One interesting idea would be to compare the neighborhoods of the two cities and determine how similar or dissimilar they are. Is New York City more like Toronto or Paris or some other multicultural city? I will leave it to you to refine this idea.
-In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
+New locations for expansion:
+- must be most populous European cities 
+- the cities that are not far from the actual company's location
+- the cities that offer the best environment for small businesses including real estate prospects, third-party incentives and support
+
+How to help the company to find the best cities sitting in Europe for its expansion?
+
+The idea is:
+1. To find cities that offer the best environment (defined by **score**) for small businesses
+2. To find a geographical coordinate of each city by its name and country
+3. Via a venues of each city (top X venues that are in city a radius of Y meters) find a top Z **categories** that have been applied to the venues in a city
+4. Calculate **distance** between each city and the actual company's location
+5. Classify cities via **score** and **distance** to appropriate count of clusters
+6. Recommend the best group of cities for expansion
 
 ## Description of the data
 
 The following data sources will be used in the solution:
 - Small Business Index 2019 (https://sumup.co.uk/small-business-index-2019/)
-- Foursquare (https://developer.foursquare.com/)
+- Foursquare API (https://developer.foursquare.com/)
 
 ### Small Business Index 2019
 **The SumUp Small Business Index** reveals the European cities that offer the best environment for enterprise. The Index reveals the status quo of small businesses across Europe’s most populous cities, including real estate prospects, and third-party incentives and support.
@@ -69,4 +93,9 @@ In order to rank the cities in an index, a score was attributed to each category
 This was achieved by ranking the final scores, assigning 0 to the lowest score, 10 to the highest, and the proportional part of the grades to the rest of the values.
 
 
-### Foursquare
+### Foursquare API
+The Places API offers real-time access to Foursquare’s global database of rich venue data and user content.
+
+**Venue Recommendations** returns a list of recommended venues near the defined location and for each venue an array of **categories** that have been applied to this venue. One of the categories will have a primary field indicating that it is the primary category for the venue. For the complete category tree, see: https://developer.foursquare.com/docs/build-with-foursquare/categories/
+
+For the complete the Places API documentation, see: https://developer.foursquare.com/docs/places-api/
