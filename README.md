@@ -17,7 +17,7 @@
 
 A company has a small running business and want to expand to new locations somewhere in Europe. 
 
-New locations for expansion:
+Criteria for new locations:
 - must be most populous European cities 
 - the cities that are not far from the actual company's location
 - the cities that offer the best environment for small businesses including real estate prospects, third-party incentives and support
