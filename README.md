@@ -1,3 +1,13 @@
+This is data visualisation using Tableau.
+
+
+Tableau is a powerful business intelligence and data visualization tool that has a very intuitive user interface.
+
+Here is the link to my visualisatoin: https://public.tableau.com/views/Europeancities-SmallBusinessIndex2019/Map?:display_count=y&publish=yes&:origin=viz_share_link
+
+<div class='tableauPlaceholder' id='viz1588443057891' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;Europeancities-SmallBusinessIndex2019&#47;Map&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Europeancities-SmallBusinessIndex2019&#47;Map' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;Europeancities-SmallBusinessIndex2019&#47;Map&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                
+
+
 # Find the best city for new small business expansion
 
 ## Table of Contents
